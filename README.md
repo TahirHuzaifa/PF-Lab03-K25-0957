@@ -5,3 +5,12 @@
 This is lab-03 CS-G
 <br/>
 We have studies Github
+<br/>
+**MY is bold**
+<br/>
+_This is Italic_
+
+<br/>
+- Unordered List1
+- Unordered List2
+- 
