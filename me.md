@@ -1,4 +1,4 @@
-**Muhammed Mohib**
+**Tahir Huzaifa**
 <br/>
 BS Computer Science
 <br/>
